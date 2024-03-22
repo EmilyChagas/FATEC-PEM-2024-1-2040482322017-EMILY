@@ -4,8 +4,6 @@
 
 
 #include <stdio.h>
-
-#define PT1B 1
  
 char *matriz[8][8]; 
 char *PPRETA[] = {"PT1B", "PC1P", "PB1B", "PDP", "PRB", "PB2P", "PC2B", "PT2P"};
