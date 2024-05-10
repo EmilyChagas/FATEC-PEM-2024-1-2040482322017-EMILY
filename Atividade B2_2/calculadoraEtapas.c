@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <string.h>
  
-#define MAX 100 // Define the maximum stack size
+#define MAX 4 // Define the maximum stack size
  
 int *pilha; // Declare the stack
 int topo = 0; // Initialize the top of the stack
