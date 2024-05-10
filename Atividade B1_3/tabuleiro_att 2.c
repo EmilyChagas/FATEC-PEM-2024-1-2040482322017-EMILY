@@ -2,7 +2,7 @@
 
 char *matriz[8][8];
 char *PPRETA[] = {"PT1B", "PC1P", "PB1B", "PDP", "PRB", "PB2P", "PC2B", "PT2P"};
-char *PBRANCO[] = {"BT1P", "BC1B", "BB1P", "BDB", "BRP", "BB2B", "BC2P", "BT2B"};
+char *PBRANCO[] = {"Bt1P", "Bc1B", "Bb1P", "BdB", "BrP", "Bb2B", "Bc2P", "Bt2B"};
 
 // Função para preencher a primeira linha com peças pretas
 void pecapreta() {
